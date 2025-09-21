@@ -17,13 +17,13 @@
 
 - 📫 How to reach me **dhanushkumar78290@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dhanush-kumar-299187328](https://www.linkedin.com/in/dhanush-kumar-299187328)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dhanush-kumar-299187328](https://www.linkedin.com/in/dhanush-kumar-100a5836a)
 
 - ⚡ Fun fact **I once stayed up all night fixing a bug that turned out to be a missing semicolon. I laughed, cried, and then added linting to every project I’ve touched since.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanush-kumar-299187328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanush-kumar-299187328" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanush-kumar-100a5836a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanush-kumar-299187328" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/dhanushkumar7822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/dhanushkumar7822" height="30" width="40" /></a>
 </p>
 
@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushchar&show_icons=true&locale=en" alt="dhanushchar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushchar&" alt="dhanushchar" /></p>
-.gif)](https://rishavchanda.io)
+
